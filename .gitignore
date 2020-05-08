@@ -16,8 +16,4 @@ out/
 ckpt/
 archive/
 data/
-
-# results
-*sync-utils
-*sync
-*ckpt
+.vscode/
