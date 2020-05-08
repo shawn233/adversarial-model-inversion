@@ -3,3 +3,21 @@
 *.pyc
 venv/
 test.sh
+*.jpeg
+*.jpg
+*.png
+*.npy
+*.npz
+*.zip
+*.txt
+env/
+__pycache__/
+out/
+ckpt/
+archive/
+data/
+
+# results
+*sync-utils
+*sync
+*ckpt
